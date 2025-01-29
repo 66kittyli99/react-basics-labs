@@ -35,3 +35,7 @@ div {
   font-style: italic;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.priority {
+  font: weight 10px; 
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
